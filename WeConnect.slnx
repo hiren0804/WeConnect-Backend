@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WeConnect.API/WeConnect.API.csproj" />
+    <Project Path="src/WeConnect.Application/WeConnect.Application.csproj" />
+    <Project Path="src/WeConnect.Domain/WeConnect.Domain.csproj" />
+    <Project Path="src/WeConnect.Infrastructure/WeConnect.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\bin\Debug\net10.0\WeConnect.Domain.deps.json
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\bin\Debug\net10.0\WeConnect.Domain.dll
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\bin\Debug\net10.0\WeConnect.Domain.pdb
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.AssemblyInfoInputs.cache
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.AssemblyInfo.cs
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.dll
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\refint\WeConnect.Domain.dll
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\WeConnect.Domain.pdb
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Domain\obj\Debug\net10.0\ref\WeConnect.Domain.dll
