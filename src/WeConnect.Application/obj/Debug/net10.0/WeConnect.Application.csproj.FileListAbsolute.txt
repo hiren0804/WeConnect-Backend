@@ -8,6 +8,7 @@ C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnect.Application.AssemblyInfoInputs.cache
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnect.Application.AssemblyInfo.cs
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnect.Application.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnect.Application.sourcelink.json
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnec.FE3C9764.Up2Date
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\WeConnect.Application.dll
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Application\obj\Debug\net10.0\refint\WeConnect.Application.dll

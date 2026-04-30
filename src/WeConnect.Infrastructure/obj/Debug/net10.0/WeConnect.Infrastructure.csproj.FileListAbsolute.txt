@@ -11,6 +11,7 @@ C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnect.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnect.Infrastructure.AssemblyInfo.cs
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnect.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnect.Infrastructure.sourcelink.json
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnec.1D7A6C0A.Up2Date
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\WeConnect.Infrastructure.dll
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.Infrastructure\obj\Debug\net10.0\refint\WeConnect.Infrastructure.dll

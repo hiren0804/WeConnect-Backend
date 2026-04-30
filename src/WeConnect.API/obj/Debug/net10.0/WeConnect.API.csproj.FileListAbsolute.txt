@@ -163,6 +163,7 @@ C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\WeConnect.API.csproj.CoreCompileInputs.cache
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\WeConnect.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\WeConnect.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\WeConnect.API.sourcelink.json
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\mahesh\Downloads\WeConnect-Backend-Fixed\WeConnect-Fixed\src\WeConnect.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
